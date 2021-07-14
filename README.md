@@ -10,3 +10,5 @@ Frogger and it's code are property of their owners
 
 Shoutout to RealTutsGML on Youtube for making a Java game tutorial. His guide was integral to
 the development of this game
+
+Archived until further notice
